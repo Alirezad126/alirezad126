@@ -6,7 +6,6 @@ I'm an AI Engineer with a solid background in Machine Learning, Data Science, an
 - 🌐 **Website:** [My Portfolio](https://alirezadaneshvar.com)
 - 📫 **Contact:** [Email Me](mailto:alireza.dg1998@gmail.com)
 - 🤝 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/alireza-daneshvar-910ba4194/)
-- 💻 **GitHub:** [View My Repos](http://github.com/Alirezad126)
 - 📘 **Latest Publication:** [Novel Safe Deep Reinforcement Learning Approach](https://www.sciencedirect.com/science/article/abs/pii/S2352152X22021363)
 - 🎓 **Education:** M.A.Sc. in Building Engineering, Concordia University
 
