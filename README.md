@@ -2,7 +2,7 @@
 
 I'm an AI Engineer with a solid background in Machine Learning, Data Science, and Data Engineering, based in Montreal. Check out my work or connect with me!
 
-- 🏠 **Location:** Montreal, QC
+- 🏠 **Location:** Canada
 - 🌐 **Website:** [My Portfolio](https://alirezadaneshvar.com)
 - 📫 **Contact:** [Email Me](mailto:alireza.dg1998@gmail.com)
 - 🤝 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/alireza-daneshvar-910ba4194/)
