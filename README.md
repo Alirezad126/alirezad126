@@ -1,12 +1,11 @@
 # Hi 👋 My name is Alireza
 
-I'm an AI Engineer with a solid background in Machine Learning, Data Science, and Data Engineering, based in Montreal. Check out my work or connect with me!
+I'm an AI Engineer with a solid background in Machine Learning, Data Science, and Data Engineering, based in Canada. Check out my work or connect with me!
 
 - 🏠 **Location:** Canada
-- 🌐 **Website:** [My Portfolio](https://alirezadaneshvar.com)
+- 🌐 **Website:** [My Portfolio](https://alirezad126.github.io)
 - 📫 **Contact:** [Email Me](mailto:alireza.dg1998@gmail.com)
 - 🤝 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/alireza-daneshvar-910ba4194/)
-- 📘 **Latest Publication:** [Novel Safe Deep Reinforcement Learning Approach](https://www.sciencedirect.com/science/article/abs/pii/S2352152X22021363)
 - 🎓 **Education:** M.A.Sc. in Building Engineering, Concordia University
 
   
