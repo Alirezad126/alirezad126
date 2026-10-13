@@ -1,54 +1,96 @@
-# Hi 👋 My name is Alireza
+<h1 align="center">Hi there, I'm Alireza 👋</h1>
 
-I'm an AI Engineer with a solid background in Machine Learning, Data Science, and Data Engineering, based in Canada. Check out my work or connect with me!
+<p align="center">
+  <b>Researcher in Safe Reinforcement Learning & Differentiable Control</b><br/>
+  Building learning-based controllers that are fast, interpretable, and provably safe.
+</p>
 
-- 🏠 **Location:** Canada
-- 🌐 **Website:** [My Portfolio](https://alirezad126.github.io)
-- 📫 **Contact:** [Email Me](mailto:alireza.dg1998@gmail.com)
-- 🤝 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/alireza-daneshvar-910ba4194/)
-- 🎓 **Education:** M.A.Sc. in Building Engineering, Concordia University
+<p align="center">
+  <a href="https://alirezadaneshvar.com"><img src="https://img.shields.io/badge/Portfolio-alirezadaneshvar.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/alireza-daneshvar-910ba4194/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:alireza.dg1998@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://arxiv.org/abs/2610.02466"><img src="https://img.shields.io/badge/arXiv-SD--DPC-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"/></a>
+</p>
 
-  
-## Skills
+---
 
-### Programming
-<a><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" /> &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="50" height="50" alt="C++" /> &nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="50" height="50" alt="Bash" /></a> &nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="50" height="50" alt="git" /></a>
+## 🧭 About Me
 
+My work sits at the intersection of **differentiable predictive control (DPC)**, **sparse system identification (SINDy)**, **safe reinforcement learning**, and **physics-informed machine learning**. I collaborate with Dr. Jan Drgoňa (Johns Hopkins University) and Dr. Ali Mesbah (UC Berkeley) on safe and adaptive RL–MPC control policies, and I contribute to the open-source [NeuroMANCER](https://github.com/pnnl/neuromancer) library.
 
+- 🔬 **Current focus:** SD-DPC — sparse dictionary policies trained end-to-end with certified, fast online adaptation ([arXiv:2610.02466](https://arxiv.org/abs/2610.02466))
+- 🤖 **Also working with:** RL and MPC/iLQG control in MuJoCo, neural dynamical models, HPC training pipelines
+- 🎓 **Education:** M.A.Sc. Building Engineering, Concordia University · B.Sc. Mechanical Engineering, Iran University of Science and Technology
+- 📍 **Based in:** Ontario, Canada
 
+---
 
-### AI/ML
-<a><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50" height="50" alt="torch"/> &nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" height="50" alt="tf"/> &nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" alt="scikit"/> &nbsp;&nbsp;
-<img src="https://cdn-lfs.huggingface.co/repos/96/a2/96a2c8468c1546e660ac2609e49404b8588fcf5a748761fa72c154b2836b4c83/942cad1ccda905ac5a659dfd2d78b344fccfb84a8a3ac3721e08f488205638a0?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo.svg%3B+filename%3D%22hf-logo.svg%22%3B&response-content-type=image%2Fsvg%2Bxml&Expires=1726756705&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNjc1NjcwNX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy85Ni9hMi85NmEyYzg0NjhjMTU0NmU2NjBhYzI2MDllNDk0MDRiODU4OGZjZjVhNzQ4NzYxZmE3MmMxNTRiMjgzNmI0YzgzLzk0MmNhZDFjY2RhOTA1YWM1YTY1OWRmZDJkNzhiMzQ0ZmNjZmI4NGE4YTNhYzM3MjFlMDhmNDg4MjA1NjM4YTA%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=Y312DcjsBITEWqtehL56d6vEPQj138ZsUpudpQhqgsjpeq%7E86k3Pf1fmA48iaw-PHKAx0EYqoXPJhYALdG%7EpajAhuYT4MKfUUaPTx2AxNjVvQUJXaBrDszNm4bTuSkN8Ekl041QKQ42qtO9rgBYAjvugQOaB7NZLMkIhn-cUD731DrX-Ml5Uyj-QK7hp3gNj2Jl3IqjBHQQ9qpoUwgPSOpWziXOHVVCpddCvN82zvSEQBxoNOMjtcxCdD-Hb9AAk-zpk%7EBbE5O2NcfLQwekquY08yraQvhpvWWQirh%7EgfJ6IIIWRh4pt%7EDxOtC2h4H1typODW2mCVWPAJDXX4spHQA__&Key-Pair-Id=K3ESJI6DHPFC7" width="50" height="50" alt="hf"/> &nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="50" height="50" alt="opencv"/>
-</a>
+## 📄 Recent Work
 
-### MLOps
-<a><img src="https://avatars.githubusercontent.com/u/61449322?v=4" width="50" height="50" alt="mlflow"/> &nbsp;&nbsp;
-<img src="https://static-00.iconduck.com/assets.00/docker-icon-1024x739-rivf80b4.png" width="60" height="50" alt="docker"/> &nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/gitlab-3.svg" width="50" height="50" alt="gitlab"/> &nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="50" height="50" alt="kubernetes"/> &nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="50" height="50" alt="FastAPI"/> &nbsp;&nbsp;
-<img src="https://logolook.net/wp-content/uploads/2023/09/Amazon-Web-Services-Logo.png" width="60" height="50" alt="aws"/> &nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/303372/azure-1-logo.svg" width="50" height="50" alt="azure"/> &nbsp;&nbsp;
-</a>
+| Project | Description |
+|---|---|
+| **SD-DPC** | Sparse Dictionary Differentiable Predictive Control. Preprint on arXiv; submitted to the ACC 2027 invited session *Learning-to-Optimize for Control*. [📄 Paper](https://arxiv.org/abs/2610.02466) |
 
-### Web Development
-<img src="https://svgshare.com/i/1AUS.svg" width="57" height="57" alt="HTML" /></a>&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="50" height="50" alt="CSS" /></a>&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50" alt="ReactJS" /></a>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" /></a>&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" alt="tailwind" /></a>&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="50" height="50" alt="Sass" /></a>&nbsp;&nbsp;
+---
 
+## 🛠️ Tech Stack
 
+**Languages & Tools**
 
-### Data Engineering
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="50" height="50" alt="pyspark" /></a>&nbsp;&nbsp;
-<img src="https://i.pinimg.com/originals/65/1d/d6/651dd6bdd503bd0aaba588b9e6439459.png" width="50" height="40" alt="databricks" /></a>&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" height="50" alt="postgres" /></a>&nbsp;&nbsp;
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,git,github,latex" alt="Languages and tools"/>
+</p>
+
+**Machine Learning & Control**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="ML frameworks"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/NeuroMANCER-DPC-4B8BBE?style=flat-square" alt="NeuroMANCER"/>
+  <img src="https://img.shields.io/badge/SINDy-Sparse%20ID-6A5ACD?style=flat-square" alt="SINDy"/>
+  <img src="https://img.shields.io/badge/MuJoCo-RL%20%26%20MPC-1F6FEB?style=flat-square" alt="MuJoCo"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/vLLM-30A14E?style=flat-square" alt="vLLM"/>
+  <img src="https://img.shields.io/badge/HPC-Slurm-555555?style=flat-square" alt="HPC"/>
+</p>
+
+**MLOps & Cloud**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gitlab,fastapi,aws,azure" alt="MLOps and cloud"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow"/>
+</p>
+
+**Data Engineering**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"/>
+</p>
+
+**Web Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass" alt="Web development"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ADaneshvarG&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADaneshvarG&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Open to research collaborations in safe RL, learning-based control, and physics-informed ML — feel free to reach out!</i>
+</p>
