@@ -1,96 +1,128 @@
+
 <h1 align="center">Hi there, I'm Alireza 👋</h1>
 
 <p align="center">
-  <b>Researcher in Safe Reinforcement Learning & Differentiable Control</b><br/>
-  Building learning-based controllers that are fast, interpretable, and provably safe.
+  <b>Data Scientist | Optimization & Controls Engineer | ML Researcher</b><br/>
+  Interested in mathematical optimization, energy systems, machine learning, and intelligent decision-making.
 </p>
 
 <p align="center">
-  <a href="https://alirezadaneshvar.com"><img src="https://img.shields.io/badge/Portfolio-alirezadaneshvar.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://alirezadaneshvar.com"><img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/alireza-daneshvar-910ba4194/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:alireza.dg1998@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://arxiv.org/abs/2610.02466"><img src="https://img.shields.io/badge/arXiv-SD--DPC-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"/></a>
 </p>
 
 ---
 
 ## 🧭 About Me
 
-My work sits at the intersection of **differentiable predictive control (DPC)**, **sparse system identification (SINDy)**, **safe reinforcement learning**, and **physics-informed machine learning**. I collaborate with Dr. Jan Drgoňa (Johns Hopkins University) and Dr. Ali Mesbah (UC Berkeley) on safe and adaptive RL–MPC control policies, and I contribute to the open-source [NeuroMANCER](https://github.com/pnnl/neuromancer) library.
+I'm an engineer and machine learning researcher with a background in **mathematical optimization, data science, and control systems**.
 
-- 🔬 **Current focus:** SD-DPC — sparse dictionary policies trained end-to-end with certified, fast online adaptation ([arXiv:2610.02466](https://arxiv.org/abs/2610.02466))
-- 🤖 **Also working with:** RL and MPC/iLQG control in MuJoCo, neural dynamical models, HPC training pipelines
-- 🎓 **Education:** M.A.Sc. Building Engineering, Concordia University · B.Sc. Mechanical Engineering, Iran University of Science and Technology
+My work focuses on combining **optimization algorithms, machine learning, and physical models** to solve engineering problems, particularly in energy systems and industrial applications.
+
+I'm especially interested in developing practical, data-driven approaches to operational decision-making, from predictive modeling and mathematical programming to learning-based control.
+
+- ⚡ **Energy Systems:** Energy storage optimization, optimal dispatch, energy management, and building systems
+- 📐 **Optimization:** Mathematical programming, MILP, constrained optimization, and model predictive control
+- 🧠 **Machine Learning:** Predictive modeling, time-series forecasting, deep learning, and reinforcement learning
+- 🔬 **Scientific ML:** Physics-informed learning, system identification, and differentiable predictive control
+- 💻 **Engineering:** Python development, data pipelines, numerical simulation, and model evaluation
 - 📍 **Based in:** Ontario, Canada
 
 ---
 
-## 📄 Recent Work
+## 🚀 Areas of Interest
 
-| Project | Description |
+| Area | Topics |
 |---|---|
-| **SD-DPC** | Sparse Dictionary Differentiable Predictive Control. Preprint on arXiv; submitted to the ACC 2027 invited session *Learning-to-Optimize for Control*. [📄 Paper](https://arxiv.org/abs/2610.02466) |
+| ⚡ Energy Optimization | Energy storage dispatch, scheduling, energy management, operational cost optimization |
+| 📊 Data Science | Predictive analytics, regression, classification, time-series modeling |
+| 📐 Operations Research | Mathematical programming, MILP, nonlinear optimization, constrained decision-making |
+| 🎛️ Control Systems | MPC, differentiable predictive control, reinforcement learning |
+| 🔬 Scientific Machine Learning | Physics-informed models, surrogate modeling, system identification |
+| 🛠️ ML Engineering | Data processing, model development, evaluation, deployment, and experiment tracking |
+
+---
+
+## 📂 Selected Projects & Research
+
+### ⚡ Energy Storage & Optimal Dispatch
+Mathematical optimization and reinforcement learning for energy hub scheduling with compressed-air energy storage.
+
+**Topics:** Energy management · MILP · Safe RL · Optimization
+
+[📄 Publication](https://doi.org/10.1016/j.est.2022.105488)
+
+### 📐 Sparse Dictionary Differentiable Predictive Control
+Interpretable, learning-based control policies for constrained dynamical systems, combining differentiable optimization and sparse representations.
+
+**Topics:** DPC · MPC · Sparse Modeling · Safe RL
+
+[📄 Paper](https://arxiv.org/abs/2610.02466)
+
+### 🏢 Building Energy Optimization
+Optimization and learning-based control of building energy systems, including HVAC operation, energy forecasting, and equipment scheduling.
+
+**Topics:** Pyomo · EnergyPlus · Forecasting · Optimization
+
+### 📊 Applied Machine Learning
+Predictive modeling and data-driven analysis of industrial and engineering datasets, with an emphasis on model validation, interpretability, and practical applications.
+
+**Topics:** Python · scikit-learn · PyTorch · SQL · PySpark
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Tools**
+**Programming & Data**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,git,github,latex" alt="Languages and tools"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,git,github" alt="Programming tools"/>
 </p>
 
-**Machine Learning & Control**
+![Python](https://img.shields.io/badge/Python-Scientific_Computing-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Data_Analysis-336791?style=flat-square)
+![PySpark](https://img.shields.io/badge/PySpark-Data_Engineering-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="ML frameworks"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/NeuroMANCER-DPC-4B8BBE?style=flat-square" alt="NeuroMANCER"/>
-  <img src="https://img.shields.io/badge/SINDy-Sparse%20ID-6A5ACD?style=flat-square" alt="SINDy"/>
-  <img src="https://img.shields.io/badge/MuJoCo-RL%20%26%20MPC-1F6FEB?style=flat-square" alt="MuJoCo"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/vLLM-30A14E?style=flat-square" alt="vLLM"/>
-  <img src="https://img.shields.io/badge/HPC-Slurm-555555?style=flat-square" alt="HPC"/>
-</p>
+**Optimization & Control**
 
-**MLOps & Cloud**
+![Pyomo](https://img.shields.io/badge/Pyomo-Mathematical_Optimization-306998?style=flat-square)
+![Gurobi](https://img.shields.io/badge/Gurobi-Optimization-EE3524?style=flat-square)
+![MILP](https://img.shields.io/badge/MILP-Mathematical_Programming-555555?style=flat-square)
+![MPC](https://img.shields.io/badge/MPC-Predictive_Control-007ACC?style=flat-square)
+![NeuroMANCER](https://img.shields.io/badge/NeuroMANCER-Differentiable_Control-4B8BBE?style=flat-square)
+
+**Machine Learning**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gitlab,fastapi,aws,azure" alt="MLOps and cloud"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="ML frameworks"/>
 </p>
 
-**Data Engineering**
+![Pandas](https://img.shields.io/badge/pandas-Data_Analysis-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-Scientific_Computing-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+
+**Data Engineering & MLOps**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"/>
+  <img src="https://skillicons.dev/icons?i=docker,fastapi,aws,azure,postgres" alt="Data Engineering and MLOps"/>
 </p>
 
-**Web Development**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass" alt="Web development"/>
-</p>
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ADaneshvarG&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADaneshvarG&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alirezad126&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alirezad126&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>Open to research collaborations in safe RL, learning-based control, and physics-informed ML — feel free to reach out!</i>
+  <i>Interested in optimization, machine learning, energy systems, and intelligent control? Feel free to connect!</i>
 </p>
