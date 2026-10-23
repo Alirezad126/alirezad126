@@ -51,7 +51,7 @@ Mathematical optimization and reinforcement learning for energy hub scheduling w
 
 **Topics:** Energy management · MILP · Safe RL · Optimization
 
-[📄 Publication](https://doi.org/10.1016/j.est.2022.105488)
+[📄 Publication]([https://doi.org/10.1016/j.est.2022.105488](https://www.sciencedirect.com/science/article/abs/pii/S2352152X22021363))
 
 ### 📐 Sparse Dictionary Differentiable Predictive Control
 Interpretable, learning-based control policies for constrained dynamical systems, combining differentiable optimization and sparse representations.
